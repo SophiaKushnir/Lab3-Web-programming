@@ -1,0 +1,5 @@
+[
+  {"username":"Ivan","password":"123","age":34,"group": 1},
+  {"username":"Andriy","password":"124","age":38,"group": 2},
+  {"username":"Victor","password":"126","age":47,"group": 3}
+]
